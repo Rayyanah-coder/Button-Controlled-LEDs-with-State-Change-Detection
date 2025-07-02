@@ -1,6 +1,7 @@
 # Button-Controlled LEDs with State Change Detection
 
 This Arduino project demonstrates how to use push buttons to toggle LEDs using **state change detection** without any external libraries. It uses internal pull-up resistors for button inputs.
+![Image](https://github.com/user-attachments/assets/241c07db-3fa9-4bfc-9a9d-f01311a17ebb)
 
 ##  Features
 - 3 push buttons connected with internal pull-up resistors.
